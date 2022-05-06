@@ -2,9 +2,8 @@ Here are files for Sea Shanty 2 xLight show for Tesla Model 3
 
 This git contains following files:
 
-1. xLights map for lights (.xsq)
-2. Light show file for Tesla (.fsq)
-3. Mp3 for the light show
+1. Light show file for Tesla (.fsq)
+2. Mp3 for the light show
 
 Must contain a base-level folder called "LightShow" (without quotation marks and case sensitive).
 
